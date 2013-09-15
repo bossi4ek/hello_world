@@ -1,3 +1,4 @@
 hello_world
 ===========
-branch develop
+
+release-1.0
